@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12940ebd875caa445926a55fa799c345, type: 3}
+  m_Name: DatabaseOfChars
+  m_EditorClassIdentifier: 
+  characters:
+  - characterName: Lily
+    characterSprite: {fileID: 21300000, guid: 0e5333e9a7b5e50418c2ea7f98157d10, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 88ba486d780efc948a81f5bd24144a08, type: 3}
+    characterAvatar: {fileID: 9000000, guid: cb8559960acbd5f439158ceeff88adbd, type: 3}
+  - characterName: Bryan
+    characterSprite: {fileID: 21300000, guid: 79316de0d51d5634bbab365464907309, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: edcf9d52e040686419154004c8ec70dd, type: 3}
+    characterAvatar: {fileID: 9000000, guid: edcf9d52e040686419154004c8ec70dd, type: 3}
+  - characterName: Erika
+    characterSprite: {fileID: 21300000, guid: 0c7b3480042119042a7bf76dedb76578, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 1a37f10186504bf4cbd97f78ea709b45, type: 3}
+    characterAvatar: {fileID: 9000000, guid: 1a37f10186504bf4cbd97f78ea709b45, type: 3}
+  - characterName: Eve
+    characterSprite: {fileID: 21300000, guid: 5123b41e24045c349925da11980bdd41, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: dd7c8aa65866ed64ab2f84a18dc0c9b0, type: 3}
+    characterAvatar: {fileID: 9000000, guid: dd7c8aa65866ed64ab2f84a18dc0c9b0, type: 3}
+  - characterName: Mocchi
+    characterSprite: {fileID: 21300000, guid: e8da16c375322684eb0d22ce594eccc3, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: cb8559960acbd5f439158ceeff88adbd, type: 3}
+    characterAvatar: {fileID: 9000000, guid: cb8559960acbd5f439158ceeff88adbd, type: 3}
+  - characterName: Kachu
+    characterSprite: {fileID: 21300000, guid: c802d47119e444148bfea00755c02f81, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 3222d518ce60a034696f50cf2f85cf19, type: 3}
+    characterAvatar: {fileID: 9000000, guid: 3222d518ce60a034696f50cf2f85cf19, type: 3}
+  - characterName: Kate
+    characterSprite: {fileID: 21300000, guid: a8877f5ab46b2534fa54d9f409efa444, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 05c6e997408133a42984924f64369e01, type: 3}
+    characterAvatar: {fileID: 9000000, guid: 05c6e997408133a42984924f64369e01, type: 3}
+  - characterName: Ryan
+    characterSprite: {fileID: 21300000, guid: 813475d83034c974baf60a5cc4d838e3, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 4296f97cc40b64240b45dee0e13ef0f3, type: 3}
+    characterAvatar: {fileID: 9000000, guid: cb5c9cedca12e1a4aa282ae7b53f42ab, type: 3}
+  - characterName: Bonzua
+    characterSprite: {fileID: 21300000, guid: 4b3e8ece029034f46be285e2c3782f0e, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 43a29e70a166e5f44992e32dc9d78820, type: 3}
+    characterAvatar: {fileID: 9000000, guid: cb5c9cedca12e1a4aa282ae7b53f42ab, type: 3}
+  - characterName: Remmy
+    characterSprite: {fileID: 21300000, guid: acad69e97d405484e99efca082a750df, type: 3}
+    characterFbxModel: {fileID: 919132149155446097, guid: 01c3c4049d652a84583be09175ef2f05, type: 3}
+    characterAvatar: {fileID: 9000000, guid: 01c3c4049d652a84583be09175ef2f05, type: 3}
